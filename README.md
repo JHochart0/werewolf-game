@@ -2,7 +2,7 @@
 Network project : Werewolf
 
 ## Description
-Implementation of the Werewolf multiplayer game with the client realized in Java and the server in Python3.
+Implementation of the Werewolf multiplayer game with the client realised in Java and the server in Python3.
 
 ## Installation
 To start the server:
